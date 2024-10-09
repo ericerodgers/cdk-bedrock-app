@@ -315,4 +315,4 @@ If you encounter issues:
 3. Verify that your .env file contains the correct account and region information
 
 For more help, consult the AWS CDK and Bedrock documentation or reach out to AWS support.
-oct 9
+oct 9a
